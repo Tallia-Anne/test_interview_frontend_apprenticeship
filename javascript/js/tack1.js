@@ -16,7 +16,7 @@ let btnChange = document.getElementById('btnChange');
 
 btnChange.addEventListener('click', () => {
 
-let  textElement = document.getElementById('text')
+let  textElement = document.getElementById('mytext')
 textElement.textContent = 'Hello , Check !'
 
 });
